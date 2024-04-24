@@ -1,0 +1,15 @@
+{
+  "name": "english-learning",
+  "version": "1.0.0",
+  "description": "背景：为了达到英语学习进阶的目的。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.4.5"
+  }
+}
